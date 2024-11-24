@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kihyun, a PhD at MIT EECS working on Reinforcment learning (e.g. offline RL, inverse RL, imitation learning) and preference learning (e.g. RLHF, DPO).
+Hi! I'm Kihyun, a PhD student at MIT EECS working on Reinforcment learning (e.g. offline RL, inverse RL, imitation learning) and preference learning (e.g. RLHF, DPO).
 
 
 
