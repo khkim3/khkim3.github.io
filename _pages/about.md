@@ -7,9 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kihyun, a PhD student at MIT EECS working on Reinforcment learning (e.g. offline RL, inverse RL, imitation learning) and preference learning (e.g. RLHF).
+Hi! I'm Kihyun, a PhD student in MIT EECS, focusing on **reinforcement learning** (e.g., offline RL, inverse RL, imitation learning), **preference learning** (e.g., RLHF), and **control theory** (e.g., stochastic optimal control, robust control).
 
+I am affiliated with MIT LIDS and fortunate to be co-advised by **Prof. Asuman Ozdaglar** and **Prof. Pablo Parrilo**.
 
+Before joining MIT, I worked with **Prof. Insoon Yang** at Seoul National University, where I had the wonderful opportunity to deepen my theoretical background.
+
+My research interests span the theoretical aspects of **machine learning, optimization, and AI alignment**. Feel free to reach out if you share similar interests—I’d love to connect! 
 
 <!--
 ---
