@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Minimax control of ambiguous linear stochastic systems using the Wasserstein metric"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/paper3
+excerpt: 'Kihyun Kim, Insoon Yang'
+date: 2020-01-02
+venue: 'IEEE Conference on Decision and Control (CDC)'
+slidesurl:
+paperurl: 'https://arxiv.org/pdf/2003.13258'
+citation:
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this paper, we propose a minimax linearquadratic control method to address the issue of inaccurate distribution information in practical stochastic systems. To construct a control policy that is robust against errors in an empirical distribution of uncertainty, our method is to adopt an adversary, which selects the worst-case distribution. To systematically adjust the conservativeness of our method, the opponent receives a penalty proportional to the amount, measured with the Wasserstein metric, of deviation from the empirical distribution. In the finite-horizon case, using a Riccati equation, we derive a closed-form expression of the unique optimal policy and the opponent's policy that generates the worst-case distribution. This result is then extended to the infinite-horizon setting by identifying conditions under which the Riccati recursion converges to the unique positive semidefinite solution to an associated algebraic Riccati equation (ARE). The resulting optimal policy is shown to stabilize the expected value of the system state under the worst-case distribution. We also discuss that our method can be interpreted as a distributional generalization of the H-infinity method.
