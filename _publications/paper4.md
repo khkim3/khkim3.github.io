@@ -1,7 +1,7 @@
 ---
 title: "Distributional robustness in minimax linear quadratic control with Wasserstein distance"
 collection: publications
-category: conferences
+category: journals
 permalink: /publication/paper4
 excerpt: 'Kihyun Kim, Insoon Yang'
 date: 2023-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing large‑scale fleet management on a road network using multi‑agent deep reinforcement learning with graph neural network"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper2
 excerpt: 'Juhyeon Kim, Kihyun Kim'
 date: 2021-01-01

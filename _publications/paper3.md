@@ -1,7 +1,7 @@
 ---
 title: "Minimax control of ambiguous linear stochastic systems using the Wasserstein metric"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper3
 excerpt: 'Kihyun Kim, Insoon Yang'
 date: 2020-01-02

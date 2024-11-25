@@ -1,7 +1,7 @@
 ---
 title: "Generative autoregressive networks for 3d dancing move synthesis from music"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper1
 excerpt: 'Hyemin Ahn, Jaehun Kim, Kihyun Kim, Songhwai Oh'
 date: 2020-01-01
