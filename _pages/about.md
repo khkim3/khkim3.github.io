@@ -15,6 +15,16 @@ Before joining MIT, I worked with **Prof. Insoon Yang** at Seoul National Univer
 
 My research interests span the theoretical aspects of **machine learning, optimization, and AI alignment**. Feel free to reach out if you share similar interests—I’d love to connect! 
 
+
+## Recent News
+
+- **November 2024**: Presented my latest work on **RLHF and control theory** at [Conference Name].
+- **October 2024**: Published a new paper on **inverse reinforcement learning** in [Journal/Conference Name].
+- **August 2024**: Started co-advising a collaborative project with **[Lab/Collaborator Name]** on **AI alignment**.
+- **July 2024**: Delivered a guest lecture on **theoretical optimization** at [University Name].
+- **June 2024**: Joined MIT EECS as a PhD student affiliated with LIDS, under the guidance of **Prof. Asuman Ozdaglar** and **Prof. Pablo Parrilo**.
+
+
 <!--
 ---
 permalink: /
