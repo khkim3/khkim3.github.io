@@ -11,15 +11,15 @@ Hi! I'm Kihyun, a PhD student in MIT EECS, working on **reinforcement learning**
 I am affiliated with MIT LIDS and fortunate to be co-advised by *Prof. Asuman Ozdaglar* and *Prof. Pablo Parrilo*.
 Before joining MIT, I worked with *Prof. Insoon Yang* at Seoul National University, where I had the wonderful opportunity to deepen my theoretical background.
 
-My research interests span the theoretical aspects of machine learning, optimization, and AI alignment. Feel free to reach out if you share similar interests—I’d love to connect! 
+My research interests span the theoretical aspects of machine learning, optimization, and AI alignment. Feel free to reach out if you share similar interests! 
 
 
 ## Recent News
 
-- *October 2024*: Presented my work on *offline inverse RL and RLHF* at an invited session at the 2024 INFORMS Annual Meeting.  
-- *September 2024*: Began working as a teaching assistant for the graduate-level RL course *6.7920 Reinforcement Learning: Foundations and Methods* at MIT.  
-- *June 2024*: Started a summer research internship with the *Advanced ML Lab* at LG AI Research.  
-- *May 2024*: Completed my MS degree.  
+- *Oct. 2024*: Presented my work on *offline inverse RL and RLHF* at an invited session at the 2024 INFORMS Annual Meeting.  
+- *Sep. 2024*: Began working as a teaching assistant for the graduate-level RL course *6.7920 Reinforcement Learning: Foundations and Methods* at MIT.  
+- *Jun. 2024*: Started a summer research internship with the *Advanced ML Lab* at LG AI Research.  
+- *May. 2024*: Completed my MS degree.  
 
 
 <!--
