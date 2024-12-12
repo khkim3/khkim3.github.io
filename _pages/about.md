@@ -16,10 +16,10 @@ My research interests span the theoretical aspects of machine learning, optimiza
 
 ## Recent News
 
-- *Oct. 2024*: Presented my work on *offline inverse RL and RLHF* at an invited session at the 2024 INFORMS Annual Meeting.  
-- *Sep. 2024*: Began working as a teaching assistant for the graduate-level RL course *6.7920 Reinforcement Learning: Foundations and Methods* at MIT.  
-- *Jun. 2024*: Started a summer research internship with the *Advanced ML Lab* at LG AI Research.  
-- *May. 2024*: Completed my MS degree.  
+- *Oct. 2024*: Presented my work on *offline inverse RL and RLHF* at an invited session at the *2024 INFORMS Annual Meeting*.  
+- *Sep. 2024*: Began TA for the graduate-level RL course *6.7920 Reinforcement Learning: Foundations and Methods* at MIT.  
+- *Jun. 2024*: Started a ML research internship with the *Advanced ML Lab* at LG AI Research.  
+- *May. 2024*: Completed my MS degree ([Thesis](https://dspace.mit.edu/bitstream/handle/1721.1/156337/kim-kihyun-sm-eecs-2024-thesis.pdf?sequence=1&isAllowed=y): "Offline Reward Learning from Human Demonstrations and Feedback: A Linear Programming Approach")  
 
 
 <!--
