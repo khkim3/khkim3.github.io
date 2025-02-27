@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kihyun, a 4th-year PhD student in MIT EECS. My research focuses on intelligent decision-making systems under uncertainty, with an emphasis on **reinforcement learning** (e.g., offline RL, inverse RL, imitation learning) and **control theory** (e.g., stochastic optimal control, robust control). 
+Hi! I'm Kihyun, a 4th-year PhD student in MIT EECS. My research focuses on developing intelligent decision-making systems in a data-driven way, with an emphasis on **reinforcement learning** (e.g., reward learning, imitation learning) and **control theory** (e.g., stochastic optimal control, distributionally robust control)."
 
 Recently, I have been exploring **preference learning** (e.g., RLHF, DPO) to align decision-making systems, particularly LLMs, with diverse human behaviors and preferences.
 
