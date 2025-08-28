@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kihyun, a 4th-year PhD student in MIT EECS. My research focuses on developing intelligent decision-making systems in a data-driven way, with an emphasis on **reinforcement learning** (e.g., reward learning, imitation learning) and **control theory** (e.g., stochastic optimal control, distributionally robust control).
+Hi! I'm Kihyun, a 5th-year PhD student in MIT EECS. My research focuses on developing intelligent decision-making systems (or AI agents) in a data-driven way, with an emphasis on **reinforcement learning** (e.g., reward learning, imitation learning) and **control theory** (e.g., stochastic optimal control, distributionally robust control).
 
-Recently, I have been exploring **preference learning** (e.g., RLHF, DPO) to align decision-making systems, particularly LLMs, with diverse human behaviors and preferences.
+Recently, I have been exploring **preference-based RL** (e.g., RLHF, DPO) to align decision-making systems, particularly LLMs, with diverse human behaviors and preferences.
 
 I am affiliated with MIT LIDS and am fortunate to be co-advised by *Prof. Asuman Ozdaglar* and *Prof. Pablo Parrilo*. 
 Before joining MIT, I worked with *Prof. Insoon Yang* at Seoul National University, where I had the wonderful opportunity to deepen my theoretical background. 
@@ -18,6 +18,7 @@ My research interests span the theoretical foundations of machine learning, opti
 
 ## Recent News
 
+- *Jun. 2025*: Started a ML research internship at Adobe Research*.  
 - *Oct. 2024*: Presented my work on *offline inverse RL and RLHF* at an invited session at the *2024 INFORMS Annual Meeting*.  
 - *Sep. 2024*: Began TA for the graduate-level RL course *6.7920 Reinforcement Learning: Foundations and Methods* at MIT.  
 - *Jun. 2024*: Started a ML research internship with the *Advanced ML Lab* at LG AI Research.  
