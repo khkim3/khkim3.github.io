@@ -3,7 +3,7 @@ title: "Minimax control of ambiguous linear stochastic systems using the Wassers
 collection: publications
 category: conferences
 permalink: /publication/paper3
-excerpt: 'Kihyun Kim, Insoon Yang'
+excerpt: '**Kihyun Kim**, Insoon Yang'
 date: 2020-01-02
 venue: 'IEEE Conference on Decision and Control (CDC)'
 slidesurl:

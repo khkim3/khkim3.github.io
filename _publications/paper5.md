@@ -3,7 +3,7 @@ title: "A Unified Linear Programming Framework for Offline Reward Learning from 
 collection: publications
 category: conferences
 permalink: /publication/paper5
-excerpt: 'Kihyun Kim, Jiawei Zhang, Asuman Ozdaglar, Pablo Parrilo'
+excerpt: '**Kihyun Kim**, Jiawei Zhang, Asuman Ozdaglar, Pablo Parrilo'
 date: 2024-01-02
 venue: 'International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/pdf/2405.12421'

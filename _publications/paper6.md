@@ -3,7 +3,7 @@ title: "Population-Proportional Preference Learning from Human Feedback: An Axio
 collection: publications
 category: conferences
 permalink: /publication/paper6
-excerpt: 'Kihyun Kim, Jiawei Zhang, Asuman Ozdaglar, Pablo Parrilo'
+excerpt: '**Kihyun Kim**, Jiawei Zhang, Asuman Ozdaglar, Pablo Parrilo'
 date: 2025-06-01
 venue: '(Under Review) arXiv preprint arXiv:2506.05619'
 paperurl: 'https://arxiv.org/pdf/2506.05619'

@@ -3,7 +3,7 @@ title: "Distributional robustness in minimax linear quadratic control with Wasse
 collection: publications
 category: journals
 permalink: /publication/paper4
-excerpt: 'Kihyun Kim, Insoon Yang'
+excerpt: '**Kihyun Kim**, Insoon Yang'
 date: 2023-01-01
 venue: 'SIAM Journal on Control and Optimization'
 paperurl: 'https://arxiv.org/pdf/2102.12715'

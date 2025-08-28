@@ -3,7 +3,7 @@ title: "Optimizing largeâ€‘scale fleet management on a road network using multiâ
 collection: publications
 category: conferences
 permalink: /publication/paper2
-excerpt: 'Juhyeon Kim, Kihyun Kim'
+excerpt: 'Juhyeon Kim, **Kihyun Kim**'
 date: 2021-01-01
 venue: 'IEEE International Intelligent Transportation Systems Conference (ITSC)'
 slidesurl:
