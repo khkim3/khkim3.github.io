@@ -7,18 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Kihyun, a 5th-year PhD student in MIT EECS. My research focuses on developing intelligent decision-making systems (or AI agents) in a data-driven way, with an emphasis on **reinforcement learning** (e.g., reward learning, imitation learning) and **control theory** (e.g., stochastic optimal control, distributionally robust control).
-
-Recently, I have been exploring **preference-based RL** (e.g., RLHF, DPO) to align decision-making systems, particularly LLMs, with diverse human behaviors and preferences.
+Hi! I'm Kihyun, a 5th-year PhD student in MIT EECS. My research focuses on developing reliable AI systems using data-driven approaches, with an emphasis on **reinforcement learning** (reward learning, imitation learning), **AI alignment** (preference-based RL, LLM fine-tuning), **control** (stochastic optimal control, distributionally robust control), and **game theory** (social choice theory, mechanism design).
 
 I am affiliated with MIT LIDS and am fortunate to be co-advised by *Prof. Asuman Ozdaglar* and *Prof. Pablo Parrilo*. 
 Before joining MIT, I worked with *Prof. Insoon Yang* at Seoul National University, where I had the wonderful opportunity to deepen my theoretical background. 
 
-My research interests span the theoretical foundations of machine learning, optimization, and AI alignment. Feel free to reach out if you share similar interests!
+My research interests span the theoretical foundations of machine learning and optimization. Feel free to reach out if you share similar interests!
 
 ## Recent News
 
-- *Jun. 2025*: Started a ML research internship at Adobe Research*.  
+- *Jun. 2025*: Started a ML research internship at Adobe Research (project: reinforcement learning for LLM agents in a painting environment).  
 - *Oct. 2024*: Presented my work on *offline inverse RL and RLHF* at an invited session at the *2024 INFORMS Annual Meeting*.  
 - *Sep. 2024*: Began TA for the graduate-level RL course *6.7920 Reinforcement Learning: Foundations and Methods* at MIT.  
 - *Jun. 2024*: Started a ML research internship with the *Advanced ML Lab* at LG AI Research.  
